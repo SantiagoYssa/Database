@@ -1,1 +1,1 @@
-# tespesor L largo v volt
+# Adquisicion de datos  y procesamiento
